@@ -6,4 +6,4 @@ for (int i = 0; i <= 255; i++)
 
 
 //this is what i would call the "traditional", or intuitive way of solving this task.
-//Not as fun, or fancy as the other examples though.
+//Not as fun, fast, or fancy as the other examples though.
